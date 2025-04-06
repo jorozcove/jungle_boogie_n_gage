@@ -1,0 +1,60 @@
+{
+    "clearColor": {
+        "a": false,
+        "b": 0.0,
+        "g": 0.0,
+        "r": 0.0
+    },
+    "configFlags": 1,
+    "header": 1,
+    "skyGradient": [
+        {
+            "colorFrom": {
+                "a": false,
+                "b": 0.0,
+                "g": 0.0,
+                "r": 0.0
+            },
+            "colorTo": {
+                "a": false,
+                "b": 0.0,
+                "g": 0.0,
+                "r": 0.0
+            },
+            "posFrom": 0.0,
+            "posTo": 0.0
+        },
+        {
+            "colorFrom": {
+                "a": false,
+                "b": 0.0,
+                "g": 0.0,
+                "r": 0.0
+            },
+            "colorTo": {
+                "a": false,
+                "b": 0.0,
+                "g": 0.0,
+                "r": 0.0
+            },
+            "posFrom": 0.0,
+            "posTo": 0.0
+        },
+        {
+            "colorFrom": {
+                "a": false,
+                "b": 0.0,
+                "g": 0.0,
+                "r": 0.0
+            },
+            "colorTo": {
+                "a": false,
+                "b": 0.0,
+                "g": 0.0,
+                "r": 0.0
+            },
+            "posFrom": 120.0,
+            "posTo": -120.0
+        }
+    ]
+}

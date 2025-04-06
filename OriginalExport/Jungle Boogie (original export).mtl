@@ -1,0 +1,308 @@
+newmtl mtl_Tex1__VertexColor__Wall_Flag_06
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Column02.png
+newmtl mtl_Tex1__Unlit__Wall_Flag_06
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Column02.png
+newmtl mtl_Tex6__Unlit__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_D_Surface02_S.png
+newmtl mtl_Tex7__Unlit__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_D_Surface01_m.png
+newmtl mtl_Tex7__VertexColor__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_D_Surface01_m.png
+newmtl mtl_Tex16__Unlit__MoveSlow
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Moss02.png
+newmtl mtl_Tex16__VertexColor__MoveSlow
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Moss02.png
+newmtl mtl_Tex18__VertexColor__Wall
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Rock01.png
+newmtl mtl_Tex9__Unlit__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_D_Surface02_S1.png
+newmtl mtl_Tex10__VertexColor__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_D_Surface04.png
+newmtl mtl_Tex11__Unlit__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_D_Surface03_MS.png
+newmtl mtl_Tex12__VertexColor__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_D_Surface03_M.png
+newmtl mtl_Tex11__VertexColor__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_D_Surface03_MS.png
+newmtl mtl_Tex12__Unlit__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_D_Surface03_M.png
+newmtl mtl_Tex13__VertexColor__HorizontalScroll
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd garrow.png
+newmtl mtl_Tex5__VertexColor__Wall_Flag_06
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Column01.png
+newmtl mtl_Tex5__Unlit__Wall_Flag_06
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Column01.png
+newmtl mtl_Tex3__VertexColor__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_TreeTrunk.png
+newmtl mtl_Tex4__VertexColor__NotSolid
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_TreeLeaves.png
+newmtl mtl_Tex14__VertexColor__Flag_03
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_bridge02.png
+newmtl mtl_Tex19__TransparentCutout7__Wall_Flag_03
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd rope.png
+newmtl mtl_Tex15__VertexColor__Flag_03
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E1_Bridge01.png
+newmtl mtl_Tex2__VertexColor__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_TreeTrunk02.png
+newmtl mtl_Tex15__Unlit__Flag_03
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E1_Bridge01.png
+newmtl mtl_Tex13__VertexColor__Flag_03_HorizontalScroll
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd garrow.png
+newmtl mtl_Tex15__Hidden__Pit
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E1_Bridge01.png
+newmtl mtl_Tex14__Unlit__Flag_03
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_bridge02.png
+newmtl mtl_Tex0__VertexColor__NotSolid_Flag_06
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Komodo01.png
+newmtl mtl_Tex0__Hidden__Wall
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Komodo01.png
+newmtl mtl_Tex10__Unlit__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_D_Surface04.png
+newmtl mtl_Tex6__VertexColor__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_D_Surface02_S.png
+newmtl mtl_Tex1__VertexColor__NotSolid_Flag_06
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Column02.png
+newmtl mtl_Tex18__Unlit__Wall
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Rock01.png
+newmtl mtl_Tex17__Unlit__Wall
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Rock02.png
+newmtl mtl_Tex5__VertexColor__Wall
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Column01.png
+newmtl mtl_Tex5__Unlit__Wall
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Column01.png
+newmtl mtl_Tex1__Unlit__Wall
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Column02.png
+newmtl mtl_Tex1__VertexColor__Wall
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Column02.png
+newmtl mtl_Tex0__VertexColor__Wall
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Komodo01.png
+newmtl mtl_Tex0__Unlit__Wall
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_Komodo01.png
+newmtl mtl_Tex9__VertexColor__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_D_Surface02_S1.png
+newmtl mtl_Tex7__VertexColor__Wall
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd E2_D_Surface01_m.png
+newmtl mtl_Tex8__Unlit__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd TempStartline.png
+newmtl mtl_Tex8__VertexColor__None
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+d 1.00000
+illum 0
+map_Kd TempStartline.png

@@ -1,0 +1,40 @@
+{
+    "header": 2,
+    "path0": {
+        "hasLeft": false,
+        "hasRight": false,
+        "index": 0,
+        "quadEnd": [
+            "road_grass_2_160",
+            "road_bricks_92",
+            "road_grass_2_82"
+        ],
+        "quadIgnore": [
+            "road_grass_2_42",
+            "road_bricks_1",
+            "road_grass_2_89"
+        ],
+        "quadStart": [
+            "start_1",
+            "start_2",
+            "start_3"
+        ]
+    },
+    "path1": {
+        "hasLeft": false,
+        "hasRight": false,
+        "index": 1,
+        "quadEnd": [
+            "road_grass_2_42",
+            "road_bricks_1",
+            "road_grass_2_89"
+        ],
+        "quadIgnore": [],
+        "quadStart": [
+            "road_grass_2_158",
+            "road_bricks_69",
+            "road_grass_2_93"
+        ]
+    },
+    "pathCount": 2
+}
