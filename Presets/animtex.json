@@ -1,0 +1,111 @@
+{
+    "anim0": {
+        "blendModes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "duration": 65,
+        "horMirror": false,
+        "name": "animation",
+        "path": "C:\\Users\\Juan Orozco\\Desktop\\CTR Custom tracks\\jungle_boogie_n_gage\\turbo_pad_animation_frames\\animation.obj",
+        "quads": [
+            "turbo_pad_18",
+            "turbo_pad_3",
+            "turbo_pad_16",
+            "turbo_pad_5",
+            "turbo_pad_6",
+            "turbo_pad_7",
+            "turbo_pad_9",
+            "turbo_pad_11",
+            "turbo_pad_17",
+            "turbo_pad_20",
+            "turbo_pad_21",
+            "turbo_pad_23",
+            "turbo_pad_24",
+            "turbo_pad_26"
+        ],
+        "rotation": 0,
+        "startAt": 0,
+        "verMirror": false
+    },
+    "anim1": {
+        "blendModes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "duration": 65,
+        "horMirror": false,
+        "name": "animation (1)",
+        "path": "C:\\Users\\Juan Orozco\\Desktop\\CTR Custom tracks\\jungle_boogie_n_gage\\turbo_pad_animation_frames\\animation.obj",
+        "quads": [
+            "turbo_pad_12",
+            "turbo_pad_1",
+            "turbo_pad_10",
+            "turbo_pad_22",
+            "turbo_pad_13"
+        ],
+        "rotation": 270,
+        "startAt": 0,
+        "verMirror": false
+    },
+    "anim2": {
+        "blendModes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "duration": 65,
+        "horMirror": true,
+        "name": "animation (2)",
+        "path": "C:\\Users\\Juan Orozco\\Desktop\\CTR Custom tracks\\jungle_boogie_n_gage\\turbo_pad_animation_frames\\animation.obj",
+        "quads": [
+            "turbo_pad_19",
+            "turbo_pad_2",
+            "turbo_pad_8",
+            "turbo_pad_14",
+            "turbo_pad_15"
+        ],
+        "rotation": 0,
+        "startAt": 0,
+        "verMirror": false
+    },
+    "anim3": {
+        "blendModes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "duration": 65,
+        "horMirror": true,
+        "name": "animation (3)",
+        "path": "C:\\Users\\Juan Orozco\\Desktop\\CTR Custom tracks\\jungle_boogie_n_gage\\turbo_pad_animation_frames\\animation.obj",
+        "quads": [
+            "turbo_pad_4",
+            "turbo_pad_25",
+            "turbo_pad_27"
+        ],
+        "rotation": 90,
+        "startAt": 0,
+        "verMirror": false
+    },
+    "animCount": 4,
+    "header": 5
+}

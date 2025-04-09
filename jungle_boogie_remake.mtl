@@ -1,4 +1,4 @@
-# Blender 4.3.0 MTL File: 'jungle_boogie_remake.blend'
+# Blender 4.2.5 LTS MTL File: 'jungle_boogie_remake.blend'
 # www.blender.org
 
 newmtl dirt
@@ -10,6 +10,16 @@ Ni 1.450000
 d 1.000000
 illum 1
 map_Kd E2_Rock02.png
+
+newmtl dirt_2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E2_Rock01.png
 
 newmtl fence
 Ns 0.000000
@@ -192,6 +202,16 @@ illum 1
 map_Kd E2_Column02.png
 
 newmtl wall_4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E2_Komodo01.png
+
+newmtl wall_4_var
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000

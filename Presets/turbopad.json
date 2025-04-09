@@ -1,5 +1,6 @@
 {
     "header": 4,
+    "turbo_pad_1_trigger": 1,
     "turbo_pad_10_trigger": 1,
     "turbo_pad_11_trigger": 1,
     "turbo_pad_12_trigger": 1,
@@ -10,7 +11,6 @@
     "turbo_pad_17_trigger": 1,
     "turbo_pad_18_trigger": 1,
     "turbo_pad_19_trigger": 1,
-    "turbo_pad_1_trigger": 1,
     "turbo_pad_20_trigger": 1,
     "turbo_pad_21_trigger": 1,
     "turbo_pad_22_trigger": 1,
@@ -19,10 +19,7 @@
     "turbo_pad_25_trigger": 1,
     "turbo_pad_26_trigger": 1,
     "turbo_pad_27_trigger": 1,
-    "turbo_pad_28_trigger": 1,
-    "turbo_pad_29_trigger": 1,
     "turbo_pad_2_trigger": 1,
-    "turbo_pad_30_trigger": 1,
     "turbo_pad_3_trigger": 1,
     "turbo_pad_4_trigger": 1,
     "turbo_pad_5_trigger": 1,
@@ -31,8 +28,8 @@
     "turbo_pad_8_trigger": 1,
     "turbo_pad_9_trigger": 1,
     "turbopads": [
-        "turbo_pad_1",
         "turbo_pad_19",
+        "turbo_pad_1",
         "turbo_pad_2",
         "turbo_pad_18",
         "turbo_pad_3",
@@ -57,9 +54,6 @@
         "turbo_pad_24",
         "turbo_pad_25",
         "turbo_pad_26",
-        "turbo_pad_27",
-        "turbo_pad_28",
-        "turbo_pad_29",
-        "turbo_pad_30"
+        "turbo_pad_27"
     ]
 }
